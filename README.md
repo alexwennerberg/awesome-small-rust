@@ -10,4 +10,4 @@ A collection of Rust libraries that are deliberately small, fast to compile, wit
 ## Libraries
 * [pico-args](https://github.com/RazrFalcon/pico-args) 0️⃣ -- Argument parsing
 * [nanoserde](https://github.com/not-fl3/nanoserde) 0️⃣ -- Serialization/deserializion
-* [climake](https://github.com/rust-cli) 0️⃣ -- Command line interface library
+* [climake](https://github.com/rust-cli/climake) 0️⃣ -- Command line interface library
