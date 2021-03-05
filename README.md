@@ -7,8 +7,7 @@ A collection of Rust libraries that are deliberately small, fast to compile, wit
 ## Inspirations
 * https://github.com/nothings/stb
 
-## Command Line Interfaces
-* [pico-args](https://github.com/RazrFalcon/pico-args) 0️⃣
-
-## serialization/Deserialization 
-* [nanoserde](https://github.com/not-fl3/nanoserde) 0️⃣ 
+## Libraries
+* [pico-args](https://github.com/RazrFalcon/pico-args) 0️⃣ -- Argument parsing
+* [nanoserde](https://github.com/not-fl3/nanoserde) 0️⃣ -- Serialization/deserializion
+* [pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) -- Markdown parser
