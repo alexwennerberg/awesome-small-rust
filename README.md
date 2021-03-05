@@ -4,6 +4,9 @@ A collection of Rust libraries that are deliberately small, fast to compile, wit
 ## Articles on Rust Bloat
 * https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html
 
+## Inspirations
+* https://github.com/nothings/stb
+
 ## Command Line Interfaces
 * [pico-args](https://github.com/RazrFalcon/pico-args) 0️⃣
 
