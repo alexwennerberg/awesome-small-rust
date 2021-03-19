@@ -12,6 +12,7 @@ A collection of Rust libraries that are deliberately small, lightweight, fast to
 * [nanoserde](https://github.com/not-fl3/nanoserde) 0️⃣ -- Serialization/deserializion
 * [climake](https://github.com/rust-cli/climake) 0️⃣ -- Command line interface library
 * [email-parser](https://github.com/Mubelotix/email-parser) 0️⃣
-* [attohttpc](https://github.com/sbstp/attohttpc) -- HTTP Client 
+* [attohttpc](https://github.com/sbstp/attohttpc) -- HTTP Client
+* [ureq](https://github.com/algesten/ureq) -- HTTP Client
 
 Open a PR if you'd like to add to this list!
