@@ -1,5 +1,5 @@
 # awesome-small-rust
-A collection of Rust libraries that are deliberately small, lightweight, fast to compile, with limited dependencies. 
+A collection of Rust libraries that are deliberately small, lightweight, and simple, with limited dependencies.
 
 0️⃣ for libraries that have no dependencies.
 
@@ -17,5 +17,6 @@ A collection of Rust libraries that are deliberately small, lightweight, fast to
 * [attohttpc](https://github.com/sbstp/attohttpc) -- HTTP Client
 * [ureq](https://github.com/algesten/ureq) -- HTTP Client
 * [lite-json](https://github.com/xlc/lite-json) -- 0️⃣  JSON parser
+* [tiny-http](https://github.com/tiny-http/tiny-http) -- HTTP Server
 
 Open a PR if you'd like to add to this list!
