@@ -18,4 +18,6 @@ A collection of Rust libraries that are deliberately small, lightweight, fast to
 * [ureq](https://github.com/algesten/ureq) -- HTTP Client
 * [lite-json](https://github.com/xlc/lite-json) -- 0️⃣  JSON parser
 
+[no-std](https://github.com/rust-embedded/awesome-embedded-rust#no-std-crates) crates 
+
 Open a PR if you'd like to add to this list!
