@@ -5,6 +5,7 @@ A collection of Rust libraries that are deliberately small, lightweight, and sim
 
 ## Articles on Rust Bloat
 * https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html
+* https://github.com/johnthagen/min-sized-rust Minimizing Binary Size
 
 ## Inspirations
 * https://github.com/nothings/stb
