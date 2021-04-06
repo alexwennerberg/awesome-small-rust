@@ -19,6 +19,7 @@ A collection of Rust libraries that are deliberately small, lightweight, and sim
 * [ureq](https://github.com/algesten/ureq) -- HTTP Client
 * [lite-json](https://github.com/xlc/lite-json) -- 0️⃣  JSON parser
 * [tiny-http](https://github.com/tiny-http/tiny-http) -- HTTP Server
+* [fastrang](https://github.com/smol-rs/fastrand) -- Non-cryptographically secure random numbers
 
 [no-std](https://github.com/rust-embedded/awesome-embedded-rust#no-std-crates) crates 
 
