@@ -16,6 +16,7 @@ A collection of Rust libraries that are deliberately small, lightweight, and sim
 * [climake](https://github.com/rust-cli/climake) 0️⃣ -- Command line interface library
 * [email-parser](https://github.com/Mubelotix/email-parser) 0️⃣
 * [attohttpc](https://github.com/sbstp/attohttpc) -- HTTP Client
+* [minreq](https://github.com/neonmoe/minreq) -- HTTP Client
 * [ureq](https://github.com/algesten/ureq) -- HTTP Client
 * [lite-json](https://github.com/xlc/lite-json) -- 0️⃣  JSON parser
 * [tiny-http](https://github.com/tiny-http/tiny-http) -- HTTP Server
