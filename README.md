@@ -22,6 +22,7 @@ A collection of Rust libraries that are deliberately small, lightweight, and sim
 * [tiny-http](https://github.com/tiny-http/tiny-http) -- HTTP Server
 * [fastrand](https://github.com/smol-rs/fastrand) -- Non-cryptographically secure random numbers
 * [nanorand](https://github.com/Absolucy/nanorand-rs)
+* [alea](https://github.com/al-jshen/alea)
 * [getrandom](https://github.com/rust-random/getrandom)
 * [oorandom](https://crates.io/crates/oorandom)
 * [smol](https://github.com/smol-rs/smol) -- A small and fast async runtime
