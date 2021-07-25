@@ -27,6 +27,11 @@ A collection of Rust libraries that are deliberately small, lightweight, and sim
 * [oorandom](https://crates.io/crates/oorandom)
 * [smol](https://github.com/smol-rs/smol) -- A small and fast async runtime
 
+## Single files
+* [args.rs](https://git.alexwennerberg.com/misc/tree/main/item/arg.rs)
+* [rand.rs](https://git.alexwennerberg.com/misc/tree/main/item/rand.rs)
+* [htmlescape.rs](https://git.alexwennerberg.com/misc/tree/main/item/htmlescape.rs)
+
 [no-std](https://github.com/rust-embedded/awesome-embedded-rust#no-std-crates) crates 
 
 Open a PR if you'd like to add to this list!
