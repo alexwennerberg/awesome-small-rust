@@ -5,10 +5,8 @@ A collection of Rust libraries that are deliberately small, lightweight, and sim
 
 ## Articles on Rust Bloat
 * https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html
-* https://github.com/johnthagen/min-sized-rust Minimizing Binary Size
-
-## Inspirations
-* https://github.com/nothings/stb
+* https://github.com/johnthagen/min-sized-rust 
+* https://blog.kodewerx.org/2020/06/the-rust-compiler-isnt-slow-we-are.html
 
 ## Libraries
 * [pico-args](https://github.com/RazrFalcon/pico-args) 0️⃣ -- Argument parsing
@@ -26,12 +24,13 @@ A collection of Rust libraries that are deliberately small, lightweight, and sim
 * [getrandom](https://github.com/rust-random/getrandom)
 * [oorandom](https://crates.io/crates/oorandom)
 * [smol](https://github.com/smol-rs/smol) -- A small and fast async runtime
+* [vial](https://github.com/xvxx/vial) -- web framework
+* [horrorshow](https://github.com/Stebalien/horrorshow-rs) 0 -- HTML builder
+* [nanotemplate](https://git.sr.ht/~jpastuszek/nanotemplate) 0 -- ultralight template engine
 
 ## Single files
-* [args.rs](https://git.alexwennerberg.com/misc/tree/main/item/arg.rs)
-* [rand.rs](https://git.alexwennerberg.com/misc/tree/main/item/rand.rs)
-* [htmlescape.rs](https://git.alexwennerberg.com/misc/tree/main/item/htmlescape.rs)
+* [args.rs](https://git.alexwennerberg.com/crabmail/file/src/arg.rs.html)
+* [time.rs](https://git.alexwennerberg.com/crabmail/file/src/time.rs.html)
+* [config.rs](https://git.alexwennerberg.com/crabmail/file/src/config.rs.html)
 
-[no-std](https://github.com/rust-embedded/awesome-embedded-rust#no-std-crates) crates 
-
-Open a PR if you'd like to add to this list!
+Open a PR if you'd like to add to this list, or email https://lists.flounder.online/patches/
