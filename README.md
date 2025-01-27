@@ -28,9 +28,4 @@ A collection of Rust libraries that are deliberately small, lightweight, and sim
 * [horrorshow](https://github.com/Stebalien/horrorshow-rs) 0 -- HTML builder
 * [nanotemplate](https://git.sr.ht/~jpastuszek/nanotemplate) 0 -- ultralight template engine
 
-## Single files
-* [args.rs](https://git.alexwennerberg.com/crabmail/file/src/arg.rs.html)
-* [time.rs](https://git.alexwennerberg.com/crabmail/file/src/time.rs.html)
-* [config.rs](https://git.alexwennerberg.com/crabmail/file/src/config.rs.html)
-
 Open a PR if you'd like to add to this list, or email https://lists.flounder.online/patches/
