@@ -25,7 +25,7 @@ A collection of Rust libraries that are deliberately small, lightweight, and sim
 * [oorandom](https://crates.io/crates/oorandom)
 * [smol](https://github.com/smol-rs/smol) -- A small and fast async runtime
 * [vial](https://github.com/xvxx/vial) -- web framework
-* [horrorshow](https://github.com/Stebalien/horrorshow-rs) 0 -- HTML builder
-* [nanotemplate](https://git.sr.ht/~jpastuszek/nanotemplate) 0 -- ultralight template engine
+* [horrorshow](https://github.com/Stebalien/horrorshow-rs) 0️⃣ -- HTML builder
+* [nanotemplate](https://git.sr.ht/~jpastuszek/nanotemplate) 0️⃣ -- ultralight template engine
 
 Open a PR if you'd like to add to this list, or email https://lists.flounder.online/patches/
