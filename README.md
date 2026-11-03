@@ -27,5 +27,6 @@ A collection of Rust libraries that are deliberately small, lightweight, and sim
 * [vial](https://github.com/xvxx/vial) -- web framework
 * [horrorshow](https://github.com/Stebalien/horrorshow-rs) 0️⃣ -- HTML builder
 * [nanotemplate](https://git.sr.ht/~jpastuszek/nanotemplate) 0️⃣ -- ultralight template engine
+* [netip](https://github.com/yanet-platform/netip) 0️⃣ -- Fast IPv4/IPv6 network set operations with arbitrary masks; no_std, no allocator
 
 Open a PR if you'd like to add to this list, or email https://lists.flounder.online/patches/
